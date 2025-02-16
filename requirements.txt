@@ -1,5 +1,6 @@
 streamlit
+joblib
 numpy
-pandas
-pickle
-sklearn
+imblearn
+category_encoders
+xgboost
